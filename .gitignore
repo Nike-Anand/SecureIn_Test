@@ -1,0 +1,6 @@
+nvdcpe-2.0/
+official-cpe-dictionary_v2*
+*.xml
+__pycache__/
+*.pyc
+*.pyo
